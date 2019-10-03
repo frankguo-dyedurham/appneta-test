@@ -3,7 +3,7 @@ node_modules/
 server/*.log
 server/.classpath
 server/.settings/
-server/.target/
+server/target/
 server/.vscode/
 server/.java-version
 server/.project
