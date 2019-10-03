@@ -1,1 +1,10 @@
 node_modules/
+.DS_Store
+server/*.log
+server/.classpath
+server/.settings/
+server/.target/
+server/.vscode/
+server/.java-version
+server/.project
+server/logs/
