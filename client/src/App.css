@@ -1,0 +1,47 @@
+@import url("//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  text-align: left;
+  background-color: #222;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.ReactTable .-sort-asc{
+  box-shadow: none !important;
+}
+
+.ReactTable .-sort-asc:before {
+  content: "▼";
+  float: right;
+}
+
+.ReactTable  .-sort-desc {
+  box-shadow: none !important;
+}
+
+.ReactTable  .-sort-desc:before {
+  content: "▲";
+  float: right;
+}
+
+
+
+
